@@ -1,0 +1,7 @@
+{
+  "name": "claude - vibex final - UX/UI ",
+  "description": "A lively and vibrant note-taking application where you can securely store your thoughts and ideas. Sign up to start capturing your vibes and access them anytime.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
